@@ -1,0 +1,6 @@
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser_reborn\if_satser_reborn\bin\Debug\if_satser_reborn.exe.config
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser_reborn\if_satser_reborn\bin\Debug\if_satser_reborn.exe
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser_reborn\if_satser_reborn\bin\Debug\if_satser_reborn.pdb
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser_reborn\if_satser_reborn\obj\Debug\if_satser_reborn.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser_reborn\if_satser_reborn\obj\Debug\if_satser_reborn.exe
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser_reborn\if_satser_reborn\obj\Debug\if_satser_reborn.pdb

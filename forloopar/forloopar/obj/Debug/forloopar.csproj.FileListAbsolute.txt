@@ -1,0 +1,12 @@
+C:\Users\williamhn\Documents\GitHub\If satser\forloopar\forloopar\bin\Debug\forloopar.exe.config
+C:\Users\williamhn\Documents\GitHub\If satser\forloopar\forloopar\bin\Debug\forloopar.exe
+C:\Users\williamhn\Documents\GitHub\If satser\forloopar\forloopar\bin\Debug\forloopar.pdb
+C:\Users\williamhn\Documents\GitHub\If satser\forloopar\forloopar\obj\Debug\forloopar.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\If satser\forloopar\forloopar\obj\Debug\forloopar.exe
+C:\Users\williamhn\Documents\GitHub\If satser\forloopar\forloopar\obj\Debug\forloopar.pdb
+C:\Users\williamhn\Documents\GitHub\forloopar\forloopar\bin\Debug\forloopar.exe.config
+C:\Users\williamhn\Documents\GitHub\forloopar\forloopar\obj\Debug\forloopar.exe
+C:\Users\williamhn\Documents\GitHub\forloopar\forloopar\obj\Debug\forloopar.pdb
+C:\Users\williamhn\Documents\GitHub\forloopar\forloopar\bin\Debug\forloopar.exe
+C:\Users\williamhn\Documents\GitHub\forloopar\forloopar\bin\Debug\forloopar.pdb
+C:\Users\williamhn\Documents\GitHub\forloopar\forloopar\obj\Debug\forloopar.csprojResolveAssemblyReference.cache

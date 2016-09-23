@@ -1,0 +1,6 @@
+C:\Users\williamhn\Documents\GitHub\While loopar\while loopar\while loopar\bin\Debug\while loopar.exe.config
+C:\Users\williamhn\Documents\GitHub\While loopar\while loopar\while loopar\bin\Debug\while loopar.exe
+C:\Users\williamhn\Documents\GitHub\While loopar\while loopar\while loopar\bin\Debug\while loopar.pdb
+C:\Users\williamhn\Documents\GitHub\While loopar\while loopar\while loopar\obj\Debug\while loopar.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\While loopar\while loopar\while loopar\obj\Debug\while loopar.exe
+C:\Users\williamhn\Documents\GitHub\While loopar\while loopar\while loopar\obj\Debug\while loopar.pdb

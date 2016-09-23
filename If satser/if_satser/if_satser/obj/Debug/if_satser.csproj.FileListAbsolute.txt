@@ -1,0 +1,6 @@
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser\if_satser\bin\Debug\if_satser.exe.config
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser\if_satser\bin\Debug\if_satser.exe
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser\if_satser\bin\Debug\if_satser.pdb
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser\if_satser\obj\Debug\if_satser.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser\if_satser\obj\Debug\if_satser.exe
+C:\Users\williamhn\Documents\GitHub\If satser\if_satser\if_satser\obj\Debug\if_satser.pdb

@@ -1,0 +1,9 @@
+C:\Users\williamhn\Documents\GitHub\If satser\switch_satser\switch_satser\bin\Debug\switch_satser.exe.config
+C:\Users\williamhn\Documents\GitHub\If satser\switch_satser\switch_satser\bin\Debug\switch_satser.exe
+C:\Users\williamhn\Documents\GitHub\If satser\switch_satser\switch_satser\bin\Debug\switch_satser.pdb
+C:\Users\williamhn\Documents\GitHub\If satser\switch_satser\switch_satser\obj\Debug\switch_satser.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\If satser\switch_satser\switch_satser\obj\Debug\switch_satser.exe
+C:\Users\williamhn\Documents\GitHub\If satser\switch_satser\switch_satser\obj\Debug\switch_satser.pdb
+C:\Users\williamhn\Documents\GitHub\switch_satser\switch_satser\bin\Debug\switch_satser.exe.config
+C:\Users\williamhn\Documents\GitHub\switch_satser\switch_satser\obj\Debug\switch_satser.exe
+C:\Users\williamhn\Documents\GitHub\switch_satser\switch_satser\obj\Debug\switch_satser.pdb
