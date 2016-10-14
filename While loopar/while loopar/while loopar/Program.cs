@@ -67,16 +67,55 @@ namespace while_loopar
             */
 
             //Övning 4
-
+            /*
             Console.WriteLine("Gissa talet: ");
             var x = int.Parse(Console.ReadLine());
             var tal = 42;
-            while (x != 42)
+            var z = 0;
+            while (x != tal)
             {
                 Console.WriteLine("Gissa igen");
-                x = int.Parse(Console.ReadLine());  
+                if (x < tal)
+                {
+                    Console.WriteLine("För lågt");
+                }
+                else if (x > tal)
+                {
+                    Console.WriteLine("för högt");
+                }
+                x = int.Parse(Console.ReadLine()); 
+                z++;
             }
             Console.WriteLine("Rätt!");
+            Console.WriteLine(z);
+            */
+
+            //Övning 5
+            /*
+            var fib = 0;
+            var fib2= 1;
+
+            while (fib <= 1346269)
+            {
+                fib += fib2;
+                fib2 = fib - fib2;
+                Console.WriteLine(fib2);
+            }
+            */
+
+            //Övning 6
+            Console.WriteLine("Ange saldo på ditt konto: ");
+            var saldo = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ange ränta: ");
+            var ränta = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ange mål: ");
+            var mål = int.Parse(Console.ReadLine());
+
+            while ()
+            {
+
+            }
+
             Console.ReadKey();
         }
         

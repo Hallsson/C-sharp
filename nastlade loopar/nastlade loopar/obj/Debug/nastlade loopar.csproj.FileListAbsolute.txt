@@ -1,0 +1,6 @@
+C:\Users\williamhn\Documents\GitHub\nastlade loopar\nastlade loopar\bin\Debug\nastlade loopar.exe.config
+C:\Users\williamhn\Documents\GitHub\nastlade loopar\nastlade loopar\bin\Debug\nastlade loopar.exe
+C:\Users\williamhn\Documents\GitHub\nastlade loopar\nastlade loopar\bin\Debug\nastlade loopar.pdb
+C:\Users\williamhn\Documents\GitHub\nastlade loopar\nastlade loopar\obj\Debug\nastlade loopar.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\nastlade loopar\nastlade loopar\obj\Debug\nastlade loopar.exe
+C:\Users\williamhn\Documents\GitHub\nastlade loopar\nastlade loopar\obj\Debug\nastlade loopar.pdb

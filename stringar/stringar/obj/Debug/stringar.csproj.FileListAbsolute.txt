@@ -1,0 +1,6 @@
+C:\Users\williamhn\Documents\GitHub\stringar\stringar\bin\Debug\stringar.exe.config
+C:\Users\williamhn\Documents\GitHub\stringar\stringar\bin\Debug\stringar.exe
+C:\Users\williamhn\Documents\GitHub\stringar\stringar\bin\Debug\stringar.pdb
+C:\Users\williamhn\Documents\GitHub\stringar\stringar\obj\Debug\stringar.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\stringar\stringar\obj\Debug\stringar.exe
+C:\Users\williamhn\Documents\GitHub\stringar\stringar\obj\Debug\stringar.pdb

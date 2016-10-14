@@ -1,0 +1,6 @@
+C:\Users\williamhn\Documents\GitHub\ovning_1-5\ovning_1-5\bin\Debug\ovning_1-5.exe.config
+C:\Users\williamhn\Documents\GitHub\ovning_1-5\ovning_1-5\bin\Debug\ovning_1-5.exe
+C:\Users\williamhn\Documents\GitHub\ovning_1-5\ovning_1-5\bin\Debug\ovning_1-5.pdb
+C:\Users\williamhn\Documents\GitHub\ovning_1-5\ovning_1-5\obj\Debug\ovning_1-5.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\ovning_1-5\ovning_1-5\obj\Debug\ovning_1-5.exe
+C:\Users\williamhn\Documents\GitHub\ovning_1-5\ovning_1-5\obj\Debug\ovning_1-5.pdb
