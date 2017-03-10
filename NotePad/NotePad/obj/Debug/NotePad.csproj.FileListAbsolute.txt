@@ -1,0 +1,9 @@
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\williamhn\Documents\GitHub\NotePad\NotePad\obj\Debug\NotePad.notepad.resources
